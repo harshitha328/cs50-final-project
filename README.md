@@ -1,5 +1,8 @@
 # Harshitha's CS50 Calculator
 
+## Demo Video
+Watch the demo video here: [YouTube Demo](https://youtu.be/g3t085DGtxI)
+
 ## Description
 This is a terminal-based calculator built using Python as my final project for CS50x. It can perform addition, subtraction, multiplication, and division. I also included an “about me” option that introduces who I am and why I built this project.
 
